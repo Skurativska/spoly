@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1558949246 source:c:\users\Артем.Артем-ПК\documents\Учебники\c++\spoly_skurativska_stat\spoly_skurativska_test.c
+	"SPoly_Skurativska.h"
+	<stdio.h>
+
+1558816762 c:\users\Артем.Артем-ПК\documents\Учебники\c++\spoly_skurativska_stat\spoly_skurativska.h
+
+1558883548 source:c:\users\Артем.Артем-ПК\documents\Учебники\c++\spoly_skurativska_stat\spoly_skurativska.c
+	"SPoly_Skurativska.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+
